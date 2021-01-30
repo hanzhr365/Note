@@ -1,3 +1,3 @@
 # Linux OverView
 
-[back](../README.md)
+[back](..)
