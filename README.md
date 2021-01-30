@@ -4,8 +4,4 @@
 
 - [UEFI](/UEFI)  
 - [Linux](/Linux)  
-  - [haha](#)
-    - [heihei](#)
-      - [ahah](#)
-       - [aaa](#)
 
